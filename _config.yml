@@ -36,7 +36,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
   instragram:       # https://instagram.com/{your url slug} 
-  youtube: https://www.youtube.com/@defactoryan          # https://youtube.com/@{your url slug} 
+  youtube: defactoryan          # https://youtube.com/@{your url slug} 
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
   
@@ -80,12 +80,12 @@ formspree-key:   https://formspree.io/f/xgvzqbbw
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#eae2b7"
-  border: "#f77f00"
-  link: "#ffc94d"
-  highlight: "#d62828"
-  background: "#001d3d"
-  light_background: "#003566"
+  text: "#001524"
+  border: "#78290f"
+  link: "#001524"
+  highlight: "#ff7d00"
+  background: "#15616d"
+  light_background: "#ffecd1"
 
 # A few examples. 
 basic theme:
