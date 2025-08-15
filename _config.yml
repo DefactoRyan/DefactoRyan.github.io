@@ -12,7 +12,7 @@ title: DefactoRyan # This is what shows up in the tab of the browser
 
 
 # Hero Section
-name: DeFacto | Ryan
+name: DeFacto/Ryan
 headline: An archive of informal documentation on where I apply my brainpower.
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Testing custom description.
@@ -120,7 +120,12 @@ lemon theme:
   background: "#fff8f8"
   light_background: "#fff5f6"
 
-
+  text: "#1a1c20"
+  border: "#ddd"
+  link: "#4a76ee"
+  highlight: "#0c0cf2"
+  background: "#ffffff"
+  light_background: "#f3f5fb"
 
 
 
